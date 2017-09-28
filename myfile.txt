@@ -1,2 +1,3 @@
 saru demo wakaru Git Command
 add--register changes
+commit--record the state
